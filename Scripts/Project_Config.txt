@@ -1,0 +1,5 @@
+# Shared configuration file, read by every script in this project.
+# Contains the root directory of this project on your filesystem.
+# Update the path below to match your own directory structure before
+# running any scripts.
+/shared/scratch/SCWF00151/shared/c.d21085818/Dissertation

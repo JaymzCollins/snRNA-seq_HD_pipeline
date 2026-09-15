@@ -1,0 +1,3 @@
+Cas9D10A	custom	exon	1	4252	.	+	.	gene_id "Cas9D10A"; transcript_id "Cas9D10A"; gene_name "Cas9D10A"; gene_biotype "protein_coding";
+GFP	custom	exon	1	913	.	+	.	gene_id "GFP"; transcript_id "GFP"; gene_name "GFP"; gene_biotype "protein_coding";
+huHTT	custom	exon	1	525	.	+	.	gene_id "huHTT"; transcript_id "huHTT"; gene_name "huHTT"; gene_biotype "protein_coding";
